@@ -106,8 +106,12 @@ span {
           animation-duration: 2s;
 }
 
+.container-fluid main #works {
+  width: 100%;
+  height: 200vh;
+}
+
 .container-fluid main #works .foodie-page {
-  margin-right: 5rem;
   background-image: url("../images/Untitled-1.jpg");
 }
 
@@ -116,6 +120,7 @@ span {
 }
 
 .container-fluid main #works .img {
+  margin: 5rem;
   height: 250px;
   width: 250px;
   -webkit-box-shadow: 7px 9px 16px -1px rgba(0, 0, 0, 0.75);
@@ -247,6 +252,9 @@ span {
   body .container-fluid main #home .address {
     -webkit-animation-delay: .5s;
             animation-delay: .5s;
+  }
+  body .container-fluid main #works .img {
+    margin-bottom: 3rem;
   }
 }
 /*# sourceMappingURL=style.css.map */
