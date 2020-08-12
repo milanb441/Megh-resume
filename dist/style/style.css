@@ -119,6 +119,11 @@ span {
   background-image: url("../images/blog-screenshot.jpg");
 }
 
+.container-fluid main #works .new-project {
+  background-image: url(../images/Capture.JPG);
+  z-index: 11;
+}
+
 .container-fluid main #works .img {
   margin: 5rem;
   height: 250px;
