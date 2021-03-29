@@ -119,8 +119,13 @@ span {
   background-image: url("../images/blog-screenshot.jpg");
 }
 
-.container-fluid main #works .new-project {
-  background-image: url(../images/Capture.JPG);
+.container-fluid main #works .Everest-Masala {
+  background-image: url(../images/EverestMasala.png);
+  z-index: 11;
+}
+
+.container-fluid main #works .Elephant-Nepal {
+  background-image: url(../images/ElephantNepal.png);
   z-index: 11;
 }
 
